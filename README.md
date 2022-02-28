@@ -1,8 +1,8 @@
 Flixster is an app that allows users to browse movies from the The Movie Database API.
 
-Submitted by: Vrajesh Trivedi
+Submitted by: Bhumitsinh Dodiya
 
-Time spent: 5.5 hours total.
+Time spent: 7 hours total.
 
 User Stories
 
